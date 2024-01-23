@@ -1,11 +1,4 @@
-# Lovehart <3
+# hai
 
-Grouping a polycule's shit together
-
-## Websites
-
-[Kami](https://kami.loveh.art)
-
-[Luna](https://luna.loveh.art)
-
-[Aenri](https://aenri.loveh.art)
+[aenri.loveh.art](https://github.com/loveh-art/aenri.loveh.art) 
+[kami.loveh.art](https://github.com/loveh-art/kami.loveh.art) 
